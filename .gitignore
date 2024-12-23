@@ -1,3 +1,10 @@
+# for my fork
+
+pbs/
+*.tar
+*.pt
+*.log
+
 # build artifacts
 
 .eggs/
